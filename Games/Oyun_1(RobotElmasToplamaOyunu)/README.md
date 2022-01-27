@@ -7,4 +7,3 @@ Bu oyun nasıl oynanır?
 4.	Level bitirme kapısına ulaş.
 
 ![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/Games/Oyun_1(RobotElmasToplamaOyunu)/blob/main/photos/1.png)
-
