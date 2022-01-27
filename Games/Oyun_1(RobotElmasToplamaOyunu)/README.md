@@ -7,3 +7,8 @@ Bu oyun nasıl oynanır?
 4.	Level bitirme kapısına ulaş.
 
 ![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/1.png)
+![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/2.png)
+![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/3.png)
+![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/4.png)
+![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/5.png)
+![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/6.png)
