@@ -6,4 +6,4 @@ Bu oyun nasıl oynanır?
 3.	Elmasları topla.
 4.	Level bitirme kapısına ulaş.
 
-![alt text](https://github.com/halimebeyzacicek/alisveris_sepeti/blob/main/photos/Form1_design.png)
+![alt text](https://github.com/halimebeyzacicek/OyunveUygulamaAkademisi/blob/main/photos/Form1_design.png)
